@@ -175,10 +175,6 @@ status: skipped
   status: fail
 
 - summary: |
-    Проверка внесения невалидных данных в фильтр товаров по стоимости
-  status:
-
-- summary: |
     Очищение корзины
   status: pass
 
