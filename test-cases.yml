@@ -346,11 +346,11 @@
 - summary: |
     Проверка работы в браузерах Chrome, Safari, Firefox
   requirement: |
-   Содержимое сайта должно корректно отображаться при просмотре в браузерах Chrome, Safari, Firefox последних версий
+    Содержимое сайта должно корректно отображаться при просмотре в браузерах Chrome, Safari, Firefox последних версий
   prerequisites: |
-   открыта страница магазина https://hexlet-products-store.vercel.app/, в браузерах Chrome, Safari, Firefox последних версий
+    открыта страница магазина https://hexlet-products-store.vercel.app/, в браузерах Chrome, Safari, Firefox последних версий
   test-data: |
-   empty
+    empty
   steps: |
     - пройти по страницам каталога
     - добавить товар в корзину
