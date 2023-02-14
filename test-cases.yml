@@ -638,7 +638,7 @@
     открыта страница магазина https://hexlet-products-store.vercel.app/
   test-data: |
     empty
-  steps: |
+  steps:
     - зайти в корзину не добавляя товары
   expected-result: |
     выводится сообщение о пустой корзине
